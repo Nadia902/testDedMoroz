@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,500&display=swap');
+body{
+    background: url(malchik-koshka-pismo-dedu-morozu.jpg) no-repeat;
+    background-size: cover;
+    padding-left: 90px 0;
+}
+h1{
+    color: rgb(231, 48, 16);
+    text-align: center;
+    font-family: 'Bitter', serif;
+    margin-top: 190px;
+}
